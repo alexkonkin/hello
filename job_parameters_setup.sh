@@ -1,3 +1,3 @@
 #!/bin/sh
 
-export PROJECT_NAME=ADIT12
+export PROJECT_NAME=ADIT3
